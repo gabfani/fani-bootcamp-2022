@@ -22,7 +22,7 @@
     <link href="{{asset('assets/css/style.css')}}" rel="stylesheet">
 
 </head>
-
+<!--nyoba tok-->
 <body class="bg-gradient-primary">
 
 <div class="container">
